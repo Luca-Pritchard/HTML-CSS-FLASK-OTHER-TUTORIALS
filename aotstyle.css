@@ -1,0 +1,42 @@
+html{
+    background-color: rgb(101, 130, 168)
+
+}
+body{
+    background-color: rgb(169, 204, 221);
+    text-align:center;
+}
+
+h1{
+    color: rgb(49, 64, 97);
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    size: 50;
+}
+
+nav {
+    background-color:rgb(124, 184, 202)
+}
+
+nav ul {
+    
+    list-style-type: none;
+
+    margin: 0;
+
+    padding: 0;
+}
+
+nav li {
+
+    display:inline;
+    margin-right: 20px; 
+
+}
+
+nav a {
+
+    color:rgb(57, 60, 65);
+
+    text-decoration: none; 
+    
+}
