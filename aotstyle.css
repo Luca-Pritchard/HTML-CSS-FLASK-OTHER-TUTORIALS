@@ -9,8 +9,14 @@ body{
 
 h1{
     color: rgb(49, 64, 97);
+    background-color: rgb(189, 227, 236);
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
-    size: 50;
+    font-size: 140px;
+    border-style:outset;
+    border-width: 15px;
+    border-radius: 5px;
+    padding: 5px;
+
 }
 
 nav {
